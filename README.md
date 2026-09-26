@@ -116,7 +116,6 @@ No video attached to a product? **Nothing renders.** Zero cost, zero clutter.
 |:---:|:---:|
 | <img src="assets/img/02-manage-reels.jpg" alt="Manage Reels dashboard" width="420"><br>*Manage Reels — stats + connected reels* | <img src="assets/img/07-elementor-widget.jpg" alt="Elementor widget" width="420"><br>*Elementor widget, live canvas* |
 | <img src="assets/img/08-viewer-muskan.jpg" alt="Full-screen reel viewer" width="420"><br>*Full-screen viewer, dimmed side reels* | <img src="assets/img/10-product-floating.jpg" alt="Floating product video" width="420"><br>*Floating video on product page* |
-| <img src="assets/img/12-floating-expanded.jpg" alt="Expanded 9:16 player" width="420"><br>*Expanded 9:16 YouTube player* | <img src="assets/img/04-settings.jpg" alt="Settings screen" width="420"><br>*Settings — the whole design system* |
 
 ---
 

@@ -278,7 +278,7 @@ No custom tables → upgrade-safe, export-safe, backup-safe.
 
 | 🌐 Portfolio | 🐙 GitHub |  LinkedIn | ✉️ Email |
 |---|---|---|---|
-| [ai.khatifoodbazar.com/wa/portfolio](https://ai.khatifoodbazar.com/wa/portfolio/) | [github.com/developersazzad](https://github.com/developersazzad) | [linkedin.com/in/developer-sazzad](https://www.linkedin.com/in/developer-sazzad) | developersazzad7@gmail.com |
+| [ai.khatifoodbazar.com/wa/portfolio](https://sazzad.wedevspro.com) | [github.com/developersazzad](https://github.com/developersazzad) | [linkedin.com/in/developer-sazzad](https://www.linkedin.com/in/developer-sazzad) | developersazzad7@gmail.com |
 
 > This repo also ships an **interactive 3D case-study page** (`shopable-reel-case-study.html` +
 > `index.html` source) — open it in a browser for the full product story, live demo & AJAX simulator.
